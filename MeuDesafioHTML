@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Meu primeiro HTML</title>
+    </head>
+    <body>
+        <h1>Matheus Ulysses</h1>
+        <h2>Quem sou eu?</h2>
+        <p>
+            Meu nome é <strong>Matheus Ulysses</strong>, tenho 18 anos de idade e trabalho como Analista de Sistema Computacional Jr.<sup>*</sup> na Faculdade Cleber Leite. Tenho um filho (cachorro) de 10 anos de idade, gosto de música <a href="https://youtu.be/qrO4YZeyl0I?si=qIWgjXffhar1zJRm" title="Surpresa" target="_blank">pop</a> e <a href="https://youtu.be/lw97SWRo70I?si=msoJ1D4AEXWp2LiZ" title="Adivinha" target="_blank">eletronica</a> e curso graduação em <mark>Gestão da T.I.</mark> na Impacta e <mark>Processos Gerenciais</mark> na Uninter.
+        </p> <br />
+        <blockquote>
+            <i>Heavy Metal Lovers play, baby we were born this way.</i>
+        </blockquote>
+        <hr>
+        <h2>Análise de Dados</h2>
+            <p>
+                <ul>
+                <li>Python;</li> 
+                <li>SQL;</li> 
+                <li>Oracle Database;</li> 
+                <li>Power BI.</li> 
+                </ul>
+                São as principais tecnologias utilizadas para trabalhar com banco de dados, sendo Power BI muito requisitada como ferramenta de gestão.
+            </p>
+        <h2>Minhas competências</h2>
+        <p>
+            Sou apaixonado por aprender coisas novas e gosto de ocupar meu tempo exercitando minhas habilidades técnicas e comportamentais. Gosto de ler, conversar. Em ferramentas, tenho nível avançado em Pacote Office, Power Platform está sendo bem desenvolvida. Linguagens de programação: Python, HTML, JS. Idiomas, falo português nativo, inglês avançado e espanhol básico. 
+        </p>
+    </body>
+</html>
